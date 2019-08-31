@@ -1,0 +1,185 @@
+/* CSS Resets */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* Typography */
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 48px;
+}
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+}
+h4 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+a,p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+blockquote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+pre {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+caption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+/* Main Page Styling */
+.page {
+    width: 100vw;
+    max-width: 100%;
+}
+.home {
+    height: 100vh;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.home-content {
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.arrow-down {
+    height: 4vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3vh;
+}
+.arrow-down-top, .arrow-down-bottom {
+    fill: #a00047;
+}
+.home-content h1 {
+    font-size: 40vw;
+    line-height: .7;
+}
+.home-content h2 {
+    font-size: 10vh;
+    line-height: 2;
+}
+.home-content p {
+    color: #3d4042;
+    margin-bottom: 5vh;
+    font-weight: 500;
+    line-height: 1;
+}
+.home-content p,h2 {
+    text-transform: uppercase;
+}
+.home-content h1,h2 {
+    color: #000000;
+}
+.next {
+    height: 100vh;
+    background-color: #002973;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.home-content, .next-content {
+    width: 90vw;
+}
+.next-content h3,p,ul,li,a,a:link {
+    color: #e5e9f1;
+}
+.next-content h3 {
+    font-size: 8vw;
+    line-height: 1;
+}
+.next-content p {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.next-content ul {
+    list-style: none;
+}
+.next-content li {
+    line-height: 2;
+    padding: .5em;
+    margin-top: .5em;
+}
+.next-content a {
+    outline: none;
+    text-decoration: none;
+    font-size: 1.75rem;
+    border-bottom: 5px solid #a00047;
+}
+.next-content a:visited {
+    color: #e5e9f1;
+}
+.next-content a:focus, .next a:hover {
+    border-bottom: 5px solid #e5e9f1;
+}
+.next-content a:active {
+    color: #e5e9f1;
+}

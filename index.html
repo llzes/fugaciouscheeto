@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Impeach President Trump"/>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <section class="page home" id="home">
+            <section class="home-content">
+                <p>Impeach President Trump</p>
+                <h1>Yes,</h1>
+                <h2>Do it.</h2>
+            </section>
+            <svg class="arrow-down" width="50" height="30" viewBox="0 0 285 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path class="arrow-down-top" d="M282.082 4.00312L277.938 1.77131C276.036 0.801438 273.844 0.318033 271.367 0.318033C268.896 0.318033 266.707 0.801438 264.805 1.77131L142.466 64.4234L22 1.45327C20.097 0.483409 17.907 0 15.433 0C12.958 0 10.768 0.483409 8.866 1.45327L2.856 4.00515C0.95 4.97299 0 6.08737 0 7.34677C0 8.60515 0.953 9.71954 2.856 10.6874L135.899 78.3878C137.801 79.3561 139.992 79.84 142.466 79.84C144.94 79.84 147.127 79.3561 149.028 78.3878L282.082 10.6874C283.984 9.71903 284.929 8.60465 284.929 7.34677C284.929 6.08737 283.984 4.97299 282.082 4.00312Z" fill="black"/>
+                <path class="arrow-down-bottom" d="M282.082 39.1204L277.938 36.8885C276.036 35.9187 273.844 35.4353 271.367 35.4353C268.896 35.4353 266.707 35.9187 264.805 36.8885L142.466 99.5406L22 36.5705C20.097 35.6006 17.907 35.1172 15.433 35.1172C12.958 35.1172 10.768 35.6006 8.866 36.5705L2.856 39.1224C0.95 40.0902 0 41.2046 0 42.464C0 43.7224 0.953 44.8368 2.856 45.8046L135.899 113.505C137.801 114.473 139.992 114.957 142.466 114.957C144.94 114.957 147.127 114.473 149.028 113.505L282.082 45.8046C283.984 44.8363 284.929 43.7219 284.929 42.464C284.929 41.2046 283.984 40.0902 282.082 39.1204Z" fill="black"/>
+            </svg>
+        </section>
+        <section class="page next">
+            <section class="next-content">
+                <h3>More Coming Soon</h3>
+                <p>You should donate to these <span id="organisationOrOrganizations">organisations</span> to help protect people and human rights:</p>
+                <ul>
+                    <li><a href="https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation" target="_blank" rel="noopener noreferrer nofollow">ACLU</a></li>
+                    <li><a href="https://www.raicestexas.org/donate/" target="_blank" rel="noopener noreferrer nofollow">RAICES</a></li>
+                    <li><a href="https://www.plannedparenthood.org/get-involved/other-ways-give" target="_blank" rel="noopener noreferrer nofollow">Planned Parenthood</a></li>
+                    <li><a href="https://donate.splcenter.org/" target="_blank" rel="noopener noreferrer nofollow">SPLC</a></li>
+                </ul>
+                <script>
+                    const loadSpelling = () => {
+                        let zeroOne = Math.round(Math.random()) === 0
+                                        ? "organisations"
+                                        : "organizations";
+                        let spelling = zeroOne.toString();
+                        let organisationOrOrganizations = document.getElementById('organisationOrOrganizations');
+                        organisationOrOrganizations.textContent = spelling;
+                    }
+                    window.onload = loadSpelling;
+                </script>
+            </section>
+        </section>
+    </body>
+</html>
