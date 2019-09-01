@@ -1,0 +1,1004 @@
+{
+	"members": [
+		{
+			"fullname": "Lamar Alexander",
+			"state": "TN",
+			"party": "R",
+			"address": "455 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4944",
+			"email": "http://www.alexander.senate.gov/public/index.cfm?p=Email",
+			"website": "http://www.alexander.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Tammy Baldwin",
+			"state": "WI",
+			"party": "D",
+			"address": "709 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5653",
+			"email": "https://www.baldwin.senate.gov/feedback",
+			"website": "http://www.baldwin.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "John Barrasso",
+			"state": "WY",
+			"party": "R",
+			"address": "307 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6441",
+			"email": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+			"website": "http://www.barrasso.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Michael F. Bennet",
+			"state": "CO",
+			"party": "D",
+			"address": "261 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5852",
+			"email": "https://www.bennet.senate.gov/public/index.cfm/contact",
+			"website": "http://www.bennet.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Marsha Blackburn",
+			"state": "TN",
+			"party": "R",
+			"address": "357 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3344",
+			"email": "https://www.blackburn.senate.gov/contact_marsha",
+			"website": "https://www.blackburn.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Richard Blumenthal",
+			"state": "CT",
+			"party": "D",
+			"address": "706 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2823",
+			"email": "https://www.blumenthal.senate.gov/contact/",
+			"website": "http://www.blumenthal.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Roy Blunt",
+			"state": "MO",
+			"party": "R",
+			"address": "260 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5721",
+			"email": "https://www.blunt.senate.gov/public/index.cfm/contact-roy",
+			"website": "http://www.blunt.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Cory A. Booker",
+			"state": "NJ",
+			"party": "D",
+			"address": "717 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3224",
+			"email": "https://www.booker.senate.gov/?p=contact",
+			"website": "http://www.booker.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "John Boozman",
+			"state": "AR",
+			"party": "R",
+			"address": "141 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4843",
+			"email": "https://www.boozman.senate.gov/public/index.cfm/contact",
+			"website": "http://www.boozman.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Mike Braun",
+			"state": "IN",
+			"party": "R",
+			"address": "374 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4814",
+			"email": "http://www.braun.senate.gov/contact-mike",
+			"website": "https://www.braun.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Sherrod Brown",
+			"state": "OH",
+			"party": "D",
+			"address": "503 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2315",
+			"email": "http://www.brown.senate.gov/contact/",
+			"website": "http://www.brown.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Richard Burr",
+			"state": "NC",
+			"party": "R",
+			"address": "217 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3154",
+			"email": "https://www.burr.senate.gov/contact/email",
+			"website": "http://www.burr.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Maria Cantwell",
+			"state": "WA",
+			"party": "D",
+			"address": "511 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3441",
+			"email": "http://www.cantwell.senate.gov/public/index.cfm/email-maria",
+			"website": "http://www.cantwell.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Shelley Moore Capito",
+			"state": "WV",
+			"party": "R",
+			"address": "172 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6472",
+			"email": "https://www.capito.senate.gov/contact/contact-shelley",
+			"website": "http://www.capito.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Benjamin L. Cardin",
+			"state": "MD",
+			"party": "D",
+			"address": "509 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4524",
+			"email": "http://www.cardin.senate.gov/contact/",
+			"website": "http://www.cardin.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Thomas R. Carper",
+			"state": "DE",
+			"party": "D",
+			"address": "513 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2441",
+			"email": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper",
+			"website": "http://www.carper.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Robert P., Jr. Casey",
+			"state": "PA",
+			"party": "D",
+			"address": "393 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6324",
+			"email": "https://www.casey.senate.gov/contact/",
+			"website": "http://www.casey.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Bill Cassidy",
+			"state": "LA",
+			"party": "R",
+			"address": "520 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5824",
+			"email": "https://www.cassidy.senate.gov/contact",
+			"website": "http://www.cassidy.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Susan M. Collins",
+			"state": "ME",
+			"party": "R",
+			"address": "413 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2523",
+			"email": "http://www.collins.senate.gov/contact",
+			"website": "http://www.collins.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Christopher A. Coons",
+			"state": "DE",
+			"party": "D",
+			"address": "218 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5042",
+			"email": "https://www.coons.senate.gov/contact",
+			"website": "http://www.coons.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "John Cornyn",
+			"state": "TX",
+			"party": "R",
+			"address": "",
+			"phone": "(202) 224-2934",
+			"email": "https://www.cornyn.senate.gov/contact",
+			"website": "http://www.cornyn.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Catherine Cortez Masto",
+			"state": "NV",
+			"party": "D",
+			"address": "516 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3542",
+			"email": "https://www.cortezmasto.senate.gov/contact",
+			"website": "http://www.cortezmasto.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Tom Cotton",
+			"state": "AR",
+			"party": "R",
+			"address": "",
+			"phone": "(202) 224-2353",
+			"email": "http://www.cotton.senate.gov/?p=contact",
+			"website": "http://www.cotton.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Kevin Cramer",
+			"state": "ND",
+			"party": "R",
+			"address": "400 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2043",
+			"email": "https://www.cramer.senate.gov/contact_kevin",
+			"website": "https://www.cramer.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Mike Crapo",
+			"state": "ID",
+			"party": "R",
+			"address": "239 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6142",
+			"email": "https://www.crapo.senate.gov/contact",
+			"website": "http://www.crapo.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Ted Cruz",
+			"state": "TX",
+			"party": "R",
+			"address": "127A Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5922",
+			"email": "https://www.cruz.senate.gov/?p=form&id=16",
+			"website": "http://www.cruz.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Steve Daines",
+			"state": "MT",
+			"party": "R",
+			"address": "320 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2651",
+			"email": "https://www.daines.senate.gov/connect/email-steve",
+			"website": "http://www.daines.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Tammy Duckworth",
+			"state": "IL",
+			"party": "D",
+			"address": "524 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2854",
+			"email": "https://www.duckworth.senate.gov/content/contact-senator",
+			"website": "http://www.duckworth.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Richard J. Durbin",
+			"state": "IL",
+			"party": "D",
+			"address": "711 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2152",
+			"email": "https://www.durbin.senate.gov/contact/",
+			"website": "http://www.durbin.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Michael B. Enzi",
+			"state": "WY",
+			"party": "R",
+			"address": "379A Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3424",
+			"email": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi",
+			"website": "http://www.enzi.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Joni Ernst",
+			"state": "IA",
+			"party": "R",
+			"address": "730 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3254",
+			"email": "https://www.ernst.senate.gov/public/index.cfm/contact",
+			"website": "http://www.ernst.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Dianne Feinstein",
+			"state": "CA",
+			"party": "D",
+			"address": "331 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3841",
+			"email": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me",
+			"website": "http://www.feinstein.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Deb Fischer",
+			"state": "NE",
+			"party": "R",
+			"address": "454 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6551",
+			"email": "http://www.fischer.senate.gov/public/index.cfm/contact",
+			"website": "http://www.fischer.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Cory Gardner",
+			"state": "CO",
+			"party": "R",
+			"address": "354 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5941",
+			"email": "https://www.gardner.senate.gov/contact-cory/email-cory",
+			"website": "http://www.gardner.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Kirsten E. Gillibrand",
+			"state": "NY",
+			"party": "D",
+			"address": "478 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4451",
+			"email": "https://www.gillibrand.senate.gov/contact/email-me",
+			"website": "http://www.gillibrand.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Lindsey Graham",
+			"state": "SC",
+			"party": "R",
+			"address": "290 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5972",
+			"email": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
+			"website": "http://www.lgraham.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Chuck Grassley",
+			"state": "IA",
+			"party": "R",
+			"address": "135 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3744",
+			"email": "http://www.grassley.senate.gov/contact",
+			"website": "http://www.grassley.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Kamala D. Harris",
+			"state": "CA",
+			"party": "D",
+			"address": "112 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3553",
+			"email": "https://www.harris.senate.gov/contact",
+			"website": "http://www.harris.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Margaret Wood Hassan",
+			"state": "NH",
+			"party": "D",
+			"address": "324 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3324",
+			"email": "https://www.hassan.senate.gov/content/contact-senator",
+			"website": "http://www.hassan.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Josh Hawley",
+			"state": "MO",
+			"party": "R",
+			"address": "212 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6154",
+			"email": "https://www.hawley.senate.gov/contact-senator-hawley",
+			"website": "https://www.hawley.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Martin Heinrich",
+			"state": "NM",
+			"party": "D",
+			"address": "303 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5521",
+			"email": "http://www.heinrich.senate.gov/contact",
+			"website": "http://www.heinrich.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Mazie K. Hirono",
+			"state": "HI",
+			"party": "D",
+			"address": "713 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6361",
+			"email": "https://www.hirono.senate.gov/contact",
+			"website": "http://www.hirono.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "John Hoeven",
+			"state": "ND",
+			"party": "R",
+			"address": "338 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2551",
+			"email": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator",
+			"website": "http://www.hoeven.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Cindy Hyde-Smith",
+			"state": "MS",
+			"party": "R",
+			"address": "702 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5054",
+			"email": "https://www.hydesmith.senate.gov/content/contact-senator",
+			"website": "https://www.hydesmith.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "James M. Inhofe",
+			"state": "OK",
+			"party": "R",
+			"address": "205 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4721",
+			"email": "https://www.inhofe.senate.gov/contact",
+			"website": "http://www.inhofe.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Johnny Isakson",
+			"state": "GA",
+			"party": "R",
+			"address": "131 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3643",
+			"email": "https://www.isakson.senate.gov/public/index.cfm/email-me",
+			"website": "http://www.isakson.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Ron Johnson",
+			"state": "WI",
+			"party": "R",
+			"address": "328 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5323",
+			"email": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+			"website": "http://www.ronjohnson.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Doug Jones",
+			"state": "AL",
+			"party": "D",
+			"address": "330 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4124",
+			"email": "https://www.jones.senate.gov/content/contact-senator",
+			"website": "https://www.jones.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Tim Kaine",
+			"state": "VA",
+			"party": "D",
+			"address": "231 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4024",
+			"email": "https://www.kaine.senate.gov/contact",
+			"website": "http://www.kaine.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "John Kennedy",
+			"state": "LA",
+			"party": "R",
+			"address": "416 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4623",
+			"email": "https://www.kennedy.senate.gov/public/email-me",
+			"website": "http://www.kennedy.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Angus S., Jr. King",
+			"state": "ME",
+			"party": "I",
+			"address": "133 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5344",
+			"email": "https://www.king.senate.gov/contact",
+			"website": "http://www.king.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Amy Klobuchar",
+			"state": "MN",
+			"party": "D",
+			"address": "425 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3244",
+			"email": "http://www.klobuchar.senate.gov/public/index.cfm/contact",
+			"website": "http://www.klobuchar.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "James Lankford",
+			"state": "OK",
+			"party": "R",
+			"address": "316 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5754",
+			"email": "http://www.lankford.senate.gov/contact/email",
+			"website": "http://www.lankford.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Patrick J. Leahy",
+			"state": "VT",
+			"party": "D",
+			"address": "437 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4242",
+			"email": "https://www.leahy.senate.gov/contact/",
+			"website": "http://www.leahy.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Mike Lee",
+			"state": "UT",
+			"party": "R",
+			"address": "361A Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5444",
+			"email": "https://www.lee.senate.gov/public/index.cfm/contact",
+			"website": "http://www.lee.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Joe, III Manchin",
+			"state": "WV",
+			"party": "D",
+			"address": "306 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3954",
+			"email": "http://www.manchin.senate.gov/public/index.cfm/contact-form",
+			"website": "http://www.manchin.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Edward J. Markey",
+			"state": "MA",
+			"party": "D",
+			"address": "",
+			"phone": "(202) 224-2742",
+			"email": "https://www.markey.senate.gov/contact",
+			"website": "http://www.markey.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Mitch McConnell",
+			"state": "KY",
+			"party": "R",
+			"address": "317 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2541",
+			"email": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+			"website": "http://www.mcconnell.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Martha McSally",
+			"state": "AZ",
+			"party": "R",
+			"address": "404 Russell Senate Office Building Washington DC 20510",
+			"phone": "202-224-2235",
+			"email": "https://www.mcsally.senate.gov/contact_martha",
+			"website": "https://www.mcsally.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Robert Menendez",
+			"state": "NJ",
+			"party": "D",
+			"address": "528 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4744",
+			"email": "https://www.menendez.senate.gov/contact",
+			"website": "http://www.menendez.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Jeff Merkley",
+			"state": "OR",
+			"party": "D",
+			"address": "313 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3753",
+			"email": "http://www.merkley.senate.gov/contact/",
+			"website": "http://www.merkley.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Jerry Moran",
+			"state": "KS",
+			"party": "R",
+			"address": "521 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6521",
+			"email": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+			"website": "http://www.moran.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Lisa Murkowski",
+			"state": "AK",
+			"party": "R",
+			"address": "522 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6665",
+			"email": "https://www.murkowski.senate.gov/public/index.cfm/contact",
+			"website": "http://www.murkowski.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Christopher Murphy",
+			"state": "CT",
+			"party": "D",
+			"address": "136 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4041",
+			"email": "http://www.murphy.senate.gov/contact",
+			"website": "http://www.murphy.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Patty Murray",
+			"state": "WA",
+			"party": "D",
+			"address": "154 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2621",
+			"email": "http://www.murray.senate.gov/public/index.cfm/contactme",
+			"website": "http://www.murray.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Rand Paul",
+			"state": "KY",
+			"party": "R",
+			"address": "167 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4343",
+			"email": "https://www.paul.senate.gov/connect/email-rand",
+			"website": "http://www.paul.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "David Perdue",
+			"state": "GA",
+			"party": "R",
+			"address": "455 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3521",
+			"email": "https://www.perdue.senate.gov/connect/email",
+			"website": "http://www.perdue.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Gary C. Peters",
+			"state": "MI",
+			"party": "D",
+			"address": "724 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6221",
+			"email": "https://www.peters.senate.gov/contact/email-gary",
+			"website": "http://www.peters.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Rob Portman",
+			"state": "OH",
+			"party": "R",
+			"address": "448 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3353",
+			"email": "https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form",
+			"website": "http://www.portman.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Jack Reed",
+			"state": "RI",
+			"party": "D",
+			"address": "728 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4642",
+			"email": "https://www.reed.senate.gov/contact/",
+			"website": "http://www.reed.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "James E. Risch",
+			"state": "ID",
+			"party": "R",
+			"address": "483 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2752",
+			"email": "http://www.risch.senate.gov/public/index.cfm?p=Email",
+			"website": "http://www.risch.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Pat Roberts",
+			"state": "KS",
+			"party": "R",
+			"address": "109 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4774",
+			"email": "https://www.roberts.senate.gov/public/?p=EmailPat",
+			"website": "http://www.roberts.senate.gov/",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Mitt Romney",
+			"state": "UT",
+			"party": "R",
+			"address": "124 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5251",
+			"email": "https://www.romney.senate.gov/contact-senator-romney",
+			"website": "https://www.romney.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Jacky Rosen",
+			"state": "NV",
+			"party": "D",
+			"address": "144 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6244",
+			"email": "https://www.rosen.senate.gov/contact_jacky",
+			"website": "https://www.rosen.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Mike Rounds",
+			"state": "SD",
+			"party": "R",
+			"address": "502 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5842",
+			"email": "https://www.rounds.senate.gov/contact/email-mike",
+			"website": "http://www.rounds.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Marco Rubio",
+			"state": "FL",
+			"party": "R",
+			"address": "284 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3041",
+			"email": "http://www.rubio.senate.gov/public/index.cfm/contact",
+			"website": "http://www.rubio.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Bernard Sanders",
+			"state": "VT",
+			"party": "I",
+			"address": "332 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5141",
+			"email": "http://www.sanders.senate.gov/contact/",
+			"website": "http://www.sanders.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Ben Sasse",
+			"state": "NE",
+			"party": "R",
+			"address": "107 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4224",
+			"email": "http://www.sasse.senate.gov/public/index.cfm/email-ben",
+			"website": "http://www.sasse.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Brian Schatz",
+			"state": "HI",
+			"party": "D",
+			"address": "722 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3934",
+			"email": "https://www.schatz.senate.gov/contact",
+			"website": "http://www.schatz.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Charles E. Schumer",
+			"state": "NY",
+			"party": "D",
+			"address": "322 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6542",
+			"email": "https://www.schumer.senate.gov/contact/email-chuck",
+			"website": "http://www.schumer.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Rick Scott",
+			"state": "FL",
+			"party": "R",
+			"address": "716 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5274",
+			"email": "https://www.rickscott.senate.gov/contact_rick",
+			"website": "http://www.rickscott.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Tim Scott",
+			"state": "SC",
+			"party": "R",
+			"address": "104 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6121",
+			"email": "https://www.scott.senate.gov/contact/email-me",
+			"website": "http://www.scott.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Jeanne Shaheen",
+			"state": "NH",
+			"party": "D",
+			"address": "506 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2841",
+			"email": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+			"website": "http://www.shaheen.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Richard C. Shelby",
+			"state": "AL",
+			"party": "R",
+			"address": "304 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5744",
+			"email": "https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby",
+			"website": "http://www.shelby.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Kyrsten Sinema",
+			"state": "AZ",
+			"party": "D",
+			"address": "317 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4521",
+			"email": "https://www.sinema.senate.gov/contact-kyrsten",
+			"website": "https://www.sinema.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Tina Smith",
+			"state": "MN",
+			"party": "D",
+			"address": "720 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5641",
+			"email": "https://www.smith.senate.gov/contact-tina",
+			"website": "https://www.smith.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Debbie Stabenow",
+			"state": "MI",
+			"party": "D",
+			"address": "731 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4822",
+			"email": "https://www.stabenow.senate.gov/contact",
+			"website": "http://www.stabenow.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Dan Sullivan",
+			"state": "AK",
+			"party": "R",
+			"address": "302 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-3004",
+			"email": "https://www.sullivan.senate.gov/contact/email",
+			"website": "http://www.sullivan.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Jon Tester",
+			"state": "MT",
+			"party": "D",
+			"address": "311 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2644",
+			"email": "https://www.tester.senate.gov/?p=email_senator",
+			"website": "http://www.tester.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "John Thune",
+			"state": "SD",
+			"party": "R",
+			"address": "511 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2321",
+			"email": "http://www.thune.senate.gov/public/index.cfm/contact",
+			"website": "http://www.thune.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Thom Tillis",
+			"state": "NC",
+			"party": "R",
+			"address": "113 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6342",
+			"email": "https://www.tillis.senate.gov/public/index.cfm/email-me",
+			"website": "http://www.tillis.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Patrick J. Toomey",
+			"state": "PA",
+			"party": "R",
+			"address": "248 Russell Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4254",
+			"email": "https://www.toomey.senate.gov/?p=contact",
+			"website": "http://www.toomey.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Tom Udall",
+			"state": "NM",
+			"party": "D",
+			"address": "531 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6621",
+			"email": "https://www.tomudall.senate.gov/?p=contact",
+			"website": "http://www.tomudall.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Chris Van Hollen",
+			"state": "MD",
+			"party": "D",
+			"address": "110 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4654",
+			"email": "http://www.vanhollen.senate.gov/contact/email",
+			"website": "http://www.vanhollen.senate.gov",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Mark R. Warner",
+			"state": "VA",
+			"party": "D",
+			"address": "703 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2023",
+			"email": "http://www.warner.senate.gov/public/index.cfm?p=Contact",
+			"website": "http://www.warner.senate.gov",
+			"senate_class": "Class II"
+		},
+		{
+			"fullname": "Elizabeth Warren",
+			"state": "MA",
+			"party": "D",
+			"address": "309 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-4543",
+			"email": "https://www.warren.senate.gov/?p=email_senator",
+			"website": "http://www.warren.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Sheldon Whitehouse",
+			"state": "RI",
+			"party": "D",
+			"address": "530 Hart Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-2921",
+			"email": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+			"website": "http://www.whitehouse.senate.gov/",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Roger F. Wicker",
+			"state": "MS",
+			"party": "R",
+			"address": "555 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-6253",
+			"email": "https://www.wicker.senate.gov/public/index.cfm/contact",
+			"website": "http://www.wicker.senate.gov",
+			"senate_class": "Class I"
+		},
+		{
+			"fullname": "Ron Wyden",
+			"state": "OR",
+			"party": "D",
+			"address": "221 Dirksen Senate Office Building Washington DC 20510",
+			"phone": "(202) 224-5244",
+			"email": "https://www.wyden.senate.gov/contact/",
+			"website": "http://www.wyden.senate.gov/",
+			"senate_class": "Class III"
+		},
+		{
+			"fullname": "Todd Young",
+			"state": "IN",
+			"party": "R",
+			"address": "",
+			"phone": "(202) 224-5623",
+			"email": "https://www.young.senate.gov/contact",
+			"website": "http://www.young.senate.gov",
+			"senate_class": "Class III"
+		}
+	]
+}
