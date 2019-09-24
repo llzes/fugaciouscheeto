@@ -47,8 +47,10 @@ for senator in senators:
         formatted_address.join(str(address.get_text).strip("\n"))
         get_address = formatted_address
 
-    # JSON 
-    print_name = tab + "\"fullname\": \"" + str(first_name.get_text()) + " " + str(last_name.get_text()) + "\",\n"
+    # JSON
+    print_name = tab + "\"full_name\": \"" + str(first_name.get_text()) + " " + str(last_name.get_text()) + "\",\n"
+    print_first_name = tab + "\"first_name\": \"" + str(first_name.get_text()) + "\",\n"
+    print_last_name = tab + "\"last_name\": \"" + str(last_name.get_text()) + "\",\n"
     print_state = tab + "\"state\": \"" + str(state.get_text()) + "\",\n"
     print_party = tab + "\"party\": \"" + str(party.get_text()) + "\",\n"
     print_address = tab + "\"address\": \"" + get_address  + "\",\n"
@@ -59,6 +61,8 @@ for senator in senators:
     print_all = (
                     "\t\t{\n" +
                     print_name +
+                    print_first_name +
+                    print_last_name +
                     print_state +
                     print_party +
                     print_address +
