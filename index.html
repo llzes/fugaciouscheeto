@@ -22,6 +22,76 @@
         </section>
         <section class="page next">
             <section class="next-content">
+                <h3>Is Your Representative a 💩 or 💖?</h3>
+                <h4>Key:</h4>
+                <section class="next-key">
+                    <div class="next-key-div">
+                        <h1>💖</h1>
+                        <p>Lawmakers supporting impeachment/inquiry, send them your love!</p>
+                    </div>
+                    <div class="next-key-div">
+                        <h1>💩</h1>
+                        <p>Lawmakers against impeachment/inquiry, contact your Representative if you see this next to their name and ask them to support impeachment!</p>
+                    </div>
+                    <div class="next-key-div">
+                        <h1>⚠️</h1>
+                        <p>Lawmakers with no publicly known opinion, contact your Representative if you see this next to their name!</p>
+                    </div>
+                </section>
+                <section id="display-list-votes" class="display-list-votes">
+                    
+                </section>
+                <p>Source: <a href="https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/" target="_blank" rel="noopener noreferrer nofollow">Politico</a></p>
+                <script>
+                    const displayListVotes = document.getElementById('display-list-votes')
+
+                    const houseURL = "https://raw.githubusercontent.com/llzes/fugaciouscheeto/master/archive/vote/json/house.json"
+                    const house = fetch(houseURL).then(response => { 
+                            return response.json()
+                    })
+                    const data = { "house":{} }
+                    Promise.all([house]).then(values => {
+                        data["house"] = values[0]
+                        const members = data["house"].members
+                        for (const member of members) {
+                            let membersList = document.createElement("ul")
+                            let listMember = document.createElement("li")
+                            let additionalInfo = document.createElement("ul")
+                            additionalInfo.className = "additional-info"
+                            let listInfo = document.createElement("li")
+                            listInfo.className = "list-info"
+                            
+                            const first_name = member.first_name
+                            const last_name = member.last_name
+                            const state = member.state
+                            const district = member.district
+                            const party = member.party
+                            const office_room = member.office_room
+                            const phone = member.phone
+                            const website = member.website
+                            const committee_assignments = member.committee_assignments
+                            const impeach = member.impeach
+
+                            const emoji
+                            if (impeach === "yes") emoji = "💖"
+                            else if (impeach === "na") emoji = "⚠️"
+                            else if (impeach === "no") emoji = "💩"
+                            else emoji = "⚠️"
+
+                            listMember.textContent = `${emoji} ${first_name} ${last_name} ${state}-${district} ${party}`
+                            listInfo.textContent = `${phone} ${website} ${committee_assignments}`
+
+                            additionalInfo.appendChild(listInfo)
+                            listMember.appendChild(additionalInfo)
+                            membersList.appendChild(listMember)
+                            displayListVotes.appendChild(membersList)
+                        }
+                    })
+                </script>
+            </section>
+        </section>
+        <section class="page end">
+            <section class="end-content">
                 <h3>More Coming Soon</h3>
                 <p>You should donate to these <span id="organisationOrOrganizations">organisations</span> to help protect people and human rights:</p>
                 <ul>
