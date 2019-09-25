@@ -41,8 +41,13 @@
                 <section id="display-list-votes" class="display-list-votes">
                     
                 </section>
-                <p>Source: <a href="https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/" target="_blank" rel="noopener noreferrer nofollow">Politico</a></p>
+                <p>Source: <a href="https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/" target="_blank" rel="noopener noreferrer nofollow">Politico</a>, <a href="https://www.nytimes.com/interactive/2019/us/politics/trump-impeachment-congress-list.html" target="_blank" rel="noopener noreferrer nofollow">New York Times</a></p>
                 <script>
+                    const toggleAdditionalInfo = () => {
+                        const info = document.getElementById("additional-info");
+                        info.style.display == "block" ? info.style.display = "none" : info.style.display = "block"
+                    }
+
                     const displayListVotes = document.getElementById('display-list-votes')
 
                     const houseURL = "https://raw.githubusercontent.com/llzes/fugaciouscheeto/master/archive/vote/json/house.json"
@@ -55,12 +60,17 @@
                         const members = data["house"].members
                         for (const member of members) {
                             let membersList = document.createElement("ul")
+                            membersList.className = "members-list"
+                            membersList.id = "members-list"
                             let listMember = document.createElement("li")
+                            listMember.className = "list-member"
+                            listMember.id = "list-member"
                             let additionalInfo = document.createElement("ul")
-                            additionalInfo.className = "additional-info"
+                            additionalInfo.id = "additional-info"
+                            additionalInfo.style.display = "none"
                             let listInfo = document.createElement("li")
-                            listInfo.className = "list-info"
-                            
+                            listInfo.id = "list-info"
+
                             const first_name = member.first_name
                             const last_name = member.last_name
                             const state = member.state
@@ -72,19 +82,27 @@
                             const committee_assignments = member.committee_assignments
                             const impeach = member.impeach
 
-                            const emoji
+                            let emoji = ""
                             if (impeach === "yes") emoji = "💖"
                             else if (impeach === "na") emoji = "⚠️"
                             else if (impeach === "no") emoji = "💩"
                             else emoji = "⚠️"
 
-                            listMember.textContent = `${emoji} ${first_name} ${last_name} ${state}-${district} ${party}`
+                            listMember.textContent = `${emoji} ${first_name} ${last_name}, ${state}-${district}, ${party} ${emoji}`
                             listInfo.textContent = `${phone} ${website} ${committee_assignments}`
 
                             additionalInfo.appendChild(listInfo)
                             listMember.appendChild(additionalInfo)
                             membersList.appendChild(listMember)
                             displayListVotes.appendChild(membersList)
+                        }
+                        let memberLink = document.getElementById("list-member")
+                        memberLink.onclick = (e) => {
+                            e = e || event;
+                            let link = e.originalTarget || e.srcElement
+                            if(link.nodeName == "LI"){
+                                toggleAdditionalInfo()
+                            }
                         }
                     })
                 </script>
