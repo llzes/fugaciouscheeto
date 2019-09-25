@@ -144,19 +144,6 @@
 			"committee_assignments": ["Agriculture", "Financial Services"]
 		,"impeach": "" },
 		{
-			"full_name": "Cynthia Axne",
-			"first_name": "Cynthia",
-			"last_name": "Axne",
-			"state_district": "Iowa 3rd",
-			"state": "Iowa",
-			"district": "3rd",
-			"party": "D",
-			"office_room": "330 CHOB",
-			"phone": "(202) 225-5476",
-			"website": "https://axne.house.gov/",
-			"committee_assignments": ["Agriculture", "Financial Services"]
-		,"impeach": "" },
-		{
 			"full_name": "Brian Babin",
 			"first_name": "Brian",
 			"last_name": "Babin",
@@ -1223,19 +1210,6 @@
 			"committee_assignments": ["Foreign Affairs", "Natural Resources"]
 		,"impeach": "" },
 		{
-			"full_name": "John R. Curtis",
-			"first_name": "John R.",
-			"last_name": "Curtis",
-			"state_district": "Utah 3rd",
-			"state": "Utah",
-			"district": "3rd",
-			"party": "R",
-			"office_room": "125 CHOB",
-			"phone": "(202) 225-7751",
-			"website": "https://curtis.house.gov/",
-			"committee_assignments": ["Foreign Affairs", "Natural Resources"]
-		,"impeach": "" },
-		{
 			"full_name": "Sharice Davids",
 			"first_name": "Sharice",
 			"last_name": "Davids",
@@ -2146,19 +2120,6 @@
 			"committee_assignments": ["Education and Labor", "Energy and Commerce"]
 		,"impeach": "" },
 		{
-			"full_name": "S. Brett Guthrie",
-			"first_name": "S. Brett",
-			"last_name": "Guthrie",
-			"state_district": "Kentucky 2nd",
-			"state": "Kentucky",
-			"district": "2nd",
-			"party": "R",
-			"office_room": "2434 RHOB",
-			"phone": "(202) 225-3501",
-			"website": "https://guthrie.house.gov/",
-			"committee_assignments": ["Education and Labor", "Energy and Commerce"]
-		,"impeach": "" },
-		{
 			"full_name": "Debra Haaland",
 			"first_name": "Debra",
 			"last_name": "Haaland",
@@ -2496,19 +2457,6 @@
 			"website": "https://hunter.house.gov/",
 			"committee_assignments": [""]
 		,"impeach": "no" },
-		{
-			"full_name": "Will Hurd",
-			"first_name": "Will",
-			"last_name": "Hurd",
-			"state_district": "Texas 23rd",
-			"state": "Texas",
-			"district": "23rd",
-			"party": "R",
-			"office_room": "317 CHOB",
-			"phone": "(202) 225-4511",
-			"website": "https://hurd.house.gov/",
-			"committee_assignments": ["Appropriations", "Intelligence"]
-		,"impeach": "" },
 		{
 			"full_name": "Will Hurd",
 			"first_name": "Will",
@@ -3303,19 +3251,6 @@
 			"committee_assignments": ["Financial Services", "Oversight and Reform", "Transportation and Infrastructure"]
 		,"impeach": "yes" },
 		{
-			"full_name": "Stephen F. Lynch",
-			"first_name": "Stephen F.",
-			"last_name": "Lynch",
-			"state_district": "Massachusetts 8th",
-			"state": "Massachusetts",
-			"district": "8th",
-			"party": "D",
-			"office_room": "2109 RHOB",
-			"phone": "(202) 225-8273",
-			"website": "https://lynch.house.gov/",
-			"committee_assignments": ["Financial Services", "Oversight and Reform", "Transportation and Infrastructure"]
-		,"impeach": "" },
-		{
 			"full_name": "Tom Malinowski",
 			"first_name": "Tom",
 			"last_name": "Malinowski",
@@ -3860,19 +3795,6 @@
 			"phone": "(202) 225-8050",
 			"website": "https://norton.house.gov/",
 			"committee_assignments": ["Oversight and Reform", "Transportation and Infrastructure"]
-		,"impeach": "" },
-		{
-			"full_name": "Devin Nunes",
-			"first_name": "Devin",
-			"last_name": "Nunes",
-			"state_district": "California 22nd",
-			"state": "California",
-			"district": "22nd",
-			"party": "R",
-			"office_room": "1013 LHOB",
-			"phone": "(202) 225-2523",
-			"website": "https://nunes.house.gov/",
-			"committee_assignments": ["Intelligence", "Joint Committee on Taxation", "Ways and Means"]
 		,"impeach": "" },
 		{
 			"full_name": "Devin Nunes",
@@ -5344,19 +5266,6 @@
 			"committee_assignments": ["Armed Services", "Intelligence"]
 		,"impeach": "" },
 		{
-			"full_name": "Michael Turner",
-			"first_name": "Michael",
-			"last_name": "Turner",
-			"state_district": "Ohio 10th",
-			"state": "Ohio",
-			"district": "10th",
-			"party": "R",
-			"office_room": "2082 RHOB",
-			"phone": "(202) 225-6465",
-			"website": "https://turner.house.gov/",
-			"committee_assignments": ["Armed Services", "Intelligence"]
-		,"impeach": "" },
-		{
 			"full_name": "Lauren Underwood",
 			"first_name": "Lauren",
 			"last_name": "Underwood",
@@ -5369,19 +5278,6 @@
 			"website": "https://underwood.house.gov/",
 			"committee_assignments": ["Education and Labor", "Homeland Security", "Veterans' Affairs"]
 		,"impeach": "yes" },
-		{
-			"full_name": "Fred Upton",
-			"first_name": "Fred",
-			"last_name": "Upton",
-			"state_district": "Michigan 6th",
-			"state": "Michigan",
-			"district": "6th",
-			"party": "R",
-			"office_room": "2183 RHOB",
-			"phone": "(202) 225-3761",
-			"website": "https://upton.house.gov",
-			"committee_assignments": ["Energy and Commerce"]
-		,"impeach": "" },
 		{
 			"full_name": "Fred Upton",
 			"first_name": "Fred",
@@ -5473,19 +5369,6 @@
 			"website": "https://visclosky.house.gov/",
 			"committee_assignments": ["Appropriations"]
 		,"impeach": "na" },
-		{
-			"full_name": "Peter Visclosky",
-			"first_name": "Peter",
-			"last_name": "Visclosky",
-			"state_district": "Indiana 1st",
-			"state": "Indiana",
-			"district": "1st",
-			"party": "D",
-			"office_room": "2328 RHOB",
-			"phone": "(202) 225-2461",
-			"website": "https://visclosky.house.gov/",
-			"committee_assignments": ["Appropriations"]
-		,"impeach": "" },
 		{
 			"full_name": "Ann Wagner",
 			"first_name": "Ann",
@@ -5785,19 +5668,6 @@
 			"phone": "(202) 225-4272",
 			"website": "https://woodall.house.gov/",
 			"committee_assignments": ["Budget", "Modernization of Congress", "Transportation and Infrastructure", "Rules"]
-		,"impeach": "" },
-		{
-			"full_name": "Ron Wright",
-			"first_name": "Ron",
-			"last_name": "Wright",
-			"state_district": "Texas 6th",
-			"state": "Texas",
-			"district": "6th",
-			"party": "R",
-			"office_room": "428 CHOB",
-			"phone": "(202) 225-2002",
-			"website": "https://wright.house.gov/",
-			"committee_assignments": ["Education and Labor", "Foreign Affairs"]
 		,"impeach": "" },
 		{
 			"full_name": "Ron Wright",
