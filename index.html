@@ -39,13 +39,14 @@
                         <p>Lawmakers with no publicly known opinion, contact your Representative if you see this next to their name!</p>
                     </div>
                 </section>
+                <p style="margin-top: 0;">Click on a lawmaker's name to show their contact information.</p>
                 <section id="display-list-votes" class="display-list-votes">
                     
                 </section>
                 <p>Source: <a href="https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/" target="_blank" rel="noopener noreferrer nofollow">Politico</a>, <a href="https://www.nytimes.com/interactive/2019/us/politics/trump-impeachment-congress-list.html" target="_blank" rel="noopener noreferrer nofollow">New York Times</a></p>
                 <script>
-                    const toggleAdditionalInfo = () => {
-                        const info = document.getElementById("additional-info");
+                    const toggleAdditionalInfo = (memberElement) => {
+                        const info = memberElement.getElementsByTagName('ul')[0];
                         info.style.display == "block" ? info.style.display = "none" : info.style.display = "block"
                     }
 
@@ -96,13 +97,13 @@
                             listMember.appendChild(additionalInfo)
                             membersList.appendChild(listMember)
                             displayListVotes.appendChild(membersList)
-                        }
-                        let memberLink = document.getElementById("list-member")
-                        memberLink.onclick = (e) => {
-                            e = e || event;
-                            let link = e.originalTarget || e.srcElement
-                            if(link.nodeName == "LI"){
-                                toggleAdditionalInfo()
+
+                            listMember.onclick = (e) => {
+                                e = e || event;
+                                let link = e.originalTarget || e.srcElement
+                                if(link.nodeName == "LI"){
+                                    toggleAdditionalInfo(link)
+                                }
                             }
                         }
                     })
