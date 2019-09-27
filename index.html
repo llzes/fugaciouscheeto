@@ -45,15 +45,10 @@
                 </section>
                 <p>Source: <a href="https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/" target="_blank" rel="noopener noreferrer nofollow">Politico</a>, <a href="https://www.nytimes.com/interactive/2019/us/politics/trump-impeachment-congress-list.html" target="_blank" rel="noopener noreferrer nofollow">New York Times</a></p>
                 <script>
-                    const toggleAdditionalInfo = (memberElement) => {
-                        const info = memberElement.getElementsByTagName('ul')[0];
-                        info.style.display == "block" ? info.style.display = "none" : info.style.display = "block"
-                    }
-
                     const displayListVotes = document.getElementById('display-list-votes')
 
                     const houseURL = "archive/vote/json/house.json"
-                    const house = fetch(houseURL).then(response => { 
+                    const house = fetch(houseURL).then(response => {
                             return response.json()
                     })
                     const data = { "house":{} }
@@ -84,11 +79,10 @@
                             const committee_assignments = member.committee_assignments
                             const impeach = member.impeach
 
-                            let emoji = ""
+                            let emoji = "⚠️"
                             if (impeach === "yes") emoji = "💖"
                             else if (impeach === "na") emoji = "⚠️"
                             else if (impeach === "no") emoji = "💩"
-                            else emoji = "⚠️"
 
                             listMember.textContent = `${emoji} ${first_name} ${last_name}, ${state}-${district}, ${party} ${emoji}`
                             listInfo.textContent = `${phone} ${website} ${committee_assignments}`
@@ -100,9 +94,9 @@
 
                             listMember.onclick = (e) => {
                                 e = e || event;
-                                let link = e.originalTarget || e.srcElement
-                                if(link.nodeName == "LI"){
-                                    toggleAdditionalInfo(link)
+                                let link = e.target || e.srcElement
+                                if(link.nodeName == "LI") {
+                                    additionalInfo.style.display = additionalInfo.style.display == "block" ? "none" : "block";
                                 }
                             }
                         }
